@@ -26,4 +26,4 @@ def anoop():
 - Instagram : https://www.instagram.com/anoop.kiran/
 - email : anoopkiranam@gmail.com
 
-** Note ** : Please do not spam on the above mentioned profiles.
+**Note** : Please do not spam on the above mentioned profiles.
