@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**AnoopKiranAM/AnoopKiranAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hey Therer, I am Anoop Kiran A M 👋
 
 - :mortar_board: I’m currently a Masters student studying Data Science and Machine Learning at University Koblenz and Landau, Germany 
 - :computer: I’m currently working as a work student GTSOL GmbH as a Full Stack Engineer focussing mainly on building web application to track work time www.timez.eu
@@ -11,4 +6,4 @@ Here are some ideas to get you started:
 - :bulb: I believe in learning which inturn helps us in growing.
 - :email: anoopkiranam@gmail.com
 - ⚡ Fun fact: I love to spend my time by exploring new places and keen on playing outdoor sports too.
--->
+
