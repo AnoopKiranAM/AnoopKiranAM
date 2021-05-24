@@ -22,7 +22,7 @@ def anoop():
 ```
 
 #### Contact me on:
-- LinkedIn : https://www.linkedin.com/in/anoop-kiran-917841100/
+- LinkedIn : https://www.linkedin.com/in/anoop-kiran-a-m-917841100/
 - Kaggle : https://www.kaggle.com/anoopkiran/code?scroll=true
 - Instagram : https://www.instagram.com/anoop.kiran/
 - email : anoopkiranam@gmail.com
