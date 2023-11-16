@@ -14,7 +14,7 @@
 
 ```
 def anoop():
-  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Advance','Java Script':'Advance', 'jquery':'Advance','material UI and Bootstrap':'Advance' 'Java':'Intermediate','Testing':'Intermediate','MERN & MEAN':'Intermediate','Tableau':'Intermediate'}
+  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Advance','Java Script':'Advance', 'jquery':'Advance','material UI and Bootstrap':'Advance' 'Java':'Intermediate','Testing':'Intermediate','MERN & MEAN':'Intermediate','Tableau':'Intermediate',"NextJs", "NestJS","ExpressJS","Template Engines": "EJS, Handlebars"}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau', 'git']
   cloud_architecture = ['heroku',netlify]
   active_learner = True
